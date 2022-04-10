@@ -1,2 +1,2 @@
 # Madera_Note_Releases
-Madera_Note's releases data.
+Do not download madera_note from here.
